@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me ...
 
-<!---
-raunak-29/raunak-29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+<---
+Hi,
+This is Raunak Ghosh. I am currently into the field of data science . A passionate learner, mathematics enthusiast and python lover. 
+Always looking for something new and currently working on Machine Learning and Database fundamentals .
+
 --->
